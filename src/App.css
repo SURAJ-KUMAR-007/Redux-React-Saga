@@ -2,6 +2,15 @@
   text-align: center;
 }
 
+/* header */
+.header {
+  background-color: #61dafb;
+  height: 100px;
+}
+.cart-div {
+  float: right;
+  margin: 25px;
+}
 .App-logo {
   height: 40vmin;
   pointer-events: none;
